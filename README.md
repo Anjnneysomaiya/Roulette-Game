@@ -4,15 +4,6 @@ The Roulette Game is a simple simulation of a classic casino game, developed usi
 
 
 
-Repository Organization
-
-The project structure includes the following main folders:
-
-src/: Contains the Java source code for the Roulette Game.
-docs/: Holds documentation files, including this README.
-
-
-
 
 Installation
 
@@ -20,7 +11,7 @@ To set up the project on your system, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/Anjnneysomaiya/RouletteGame.git
+git clone https://github.com/Anjnneysomaiya/Roulette-Game.git
 Navigate to the Project Directory:
 
 cd RouletteGame
